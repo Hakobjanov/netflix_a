@@ -1,0 +1,2 @@
+(this.webpackJsonpnetflix_a=this.webpackJsonpnetflix_a||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var c=n(1),r=(n(0),n(3));var s=function(){return Object(c.jsx)("p",{children:"Hello"})};Object(r.render)(Object(c.jsx)(s,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.fa67772d.chunk.js.map
