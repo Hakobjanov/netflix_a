@@ -1,11 +1,7 @@
-import "./App.css";
+import React from "react";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>The Neflix Clone.</h1>
-    </div>
-  );
+  return <p>Hello</p>;
 }
 
 export default App;
